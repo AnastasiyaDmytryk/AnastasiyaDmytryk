@@ -26,7 +26,7 @@ I do many cool side quests too — modeling, designing, styling, and research.
 
 | 🌐 Website | 🎮 Itch.io | 📄 Paper |
 |:---:|:---:|:---:|
-| [anastasiya.com](YOUR_WEBSITE_URL) | [Play my games](YOUR_ITCH_URL) | [Read my research](YOUR_PAPER_URL) |
+| [anastasiya.com](https://sweet1steysi.wixsite.com/anastasiya-dmytryk-p) | [Play my games](https://anastasiya-dmytryk.itch.io/) | [Read my research](https://dl.acm.org/doi/10.1145/3806007.3810967) |
 
 ## 🔐 Data privacy
 
@@ -36,7 +36,7 @@ Working with C2C data, my team found that modern C2C marketplaces are vulnerable
 
 **Next steps:**
 
-`A` 🩷 Finish packing my outfits (2 pink suits!!)  
+`A` 🩷 Finish packing my outfits (I have 2 pink suits i'm brining!!)  
 `B` Present at CODASPY  
 `C` Meet amazing people & practice my German  
 `D` Start developing a mitigation  
