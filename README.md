@@ -2,7 +2,7 @@
 
 # Hi, I'm Anastasiya 🪸
 
-*✨ Five years ago I was asked who I wanted to be  I said Anastasiya. So here we are now. ✨*
+*✨ Five years ago I was asked who I wanted to be, I said Anastasiya. So here we are now. ✨*
 
 ![](https://img.shields.io/badge/Fashion_%26_Art-🎨-D4537E?style=flat-square&labelColor=FBEAF0&color=D4537E)
 ![](https://img.shields.io/badge/Researcher-🔬-D4537E?style=flat-square&labelColor=FBEAF0&color=D4537E)
