@@ -23,7 +23,7 @@ I do many cool side quests too — modeling, designing, styling, and research.
 
 ## 🔐 Data privacy
 
-<img align="right" width="220" src="YOUR_IMAGE_URL_HERE"/>
+<img width="220" align="right" alt="image" src="https://github.com/user-attachments/assets/8f3ca025-c018-4e3c-b12b-a0f8b60e0f22" />
 
 Working with C2C data, my team found that modern C2C marketplaces are vulnerable and not properly anonymized — and AI access only amplifies this risk. As someone who loves shopping online, I want to make sure both buyers' and sellers' data is protected.
 
@@ -41,7 +41,7 @@ Working with C2C data, my team found that modern C2C marketplaces are vulnerable
 
 ## 🎮 Game development
 
-<img align="right" width="180" src="YOUR_IMAGE_URL_HERE"/>
+<img align="right" width="180" src="https://github.com/user-attachments/assets/c9430a10-d2d5-4d82-9f67-e554a4bf3476"/>
 
 My first degree is in computer science with a focus on game development. Yes, I do make more money and am less stressed as an influencer — *I'm still not giving up though.*
 
