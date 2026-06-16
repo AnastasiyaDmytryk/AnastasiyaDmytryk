@@ -2,7 +2,7 @@
 
 # Hi, I'm Anastasiya 🪸
 
-*✨ Five years ago I was asked who I wanted to be — I said Anastasiya. Here we are. ✨*
+*✨ Five years ago I was asked who I wanted to be : I said Anastasiya. So here we are now. ✨*
 
 ![](https://img.shields.io/badge/Fashion_%26_Art-🎨-D4537E?style=flat-square&labelColor=FBEAF0&color=D4537E)
 ![](https://img.shields.io/badge/Researcher-🔬-D4537E?style=flat-square&labelColor=FBEAF0&color=D4537E)
@@ -20,6 +20,13 @@ I'm a girl who loves fashion and art and wants to combine them with a degree in 
 I do many cool side quests too — modeling, designing, styling, and research.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F4C0D1,FBEAF0&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4C0D1,FBEAF0&height=3" width="100%"/>
+
+## 🎀 Check me out!
+
+| 🌐 Website | 🎮 Itch.io | 📄 Paper |
+|:---:|:---:|:---:|
+| [anastasiya.com](YOUR_WEBSITE_URL) | [Play my games](YOUR_ITCH_URL) | [Read my research](YOUR_PAPER_URL) |
 
 ## 🔐 Data privacy
 
@@ -53,3 +60,11 @@ This summer I'm spending time analyzing data collected from users last semester 
 
 > 🌸 *Fun fact: I have been referred to as a Legally Blonde by IT STEM before.*
 <img width="736" height="732" alt="image" src="https://github.com/user-attachments/assets/2e681ade-149b-449d-9abb-7c796bb77a12" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4C0D1,FBEAF0&height=3" width="100%"/>
+
+## 🎀 Check me out!
+
+[![Website](https://sweet1steysi.wixsite.com/anastasiya-dmytryk-p)](YOUR_WEBSITE_URL)
+[![Itch.io](https://itch.io/dashboard)](YOUR_ITCH_URL)
+[![Paper](https://dl.acm.org/doi/10.1145/3806007.3810967)](YOUR_PAPER_URL)
