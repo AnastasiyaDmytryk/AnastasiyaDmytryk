@@ -1,57 +1,55 @@
-## Hi everyone it's Anastasiya 🪸
-<!--
-**AnastasiyaDmytryk/AnastasiyaDmytryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Anastasiya 🪸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*✨ Five years ago I was asked who I wanted to be — I said Anastasiya. Here we are. ✨*
 
-# 
-Five years ago I was asked at an intervew who did I want to be in 5 years and I said ✨ *Anastasiya* ✨ so here we are now. 
+![](https://img.shields.io/badge/Fashion_%26_Art-🎨-D4537E?style=flat-square&labelColor=FBEAF0&color=D4537E)
+![](https://img.shields.io/badge/Researcher-🔬-D4537E?style=flat-square&labelColor=FBEAF0&color=D4537E)
+![](https://img.shields.io/badge/Game_Dev-🎮-D4537E?style=flat-square&labelColor=FBEAF0&color=D4537E)
+![](https://img.shields.io/badge/Model-📸-F4C0D1?style=flat-square&labelColor=FBEAF0&color=F4C0D1)
+![](https://img.shields.io/badge/Stylist-💅-F4C0D1?style=flat-square&labelColor=FBEAF0&color=F4C0D1)
 
-# About me
+</div>
 
-I'm a girl who loves fashion and art and wants to combine it in with a degree in science. 
-I do many cool side quests too like modeling, designing, styling and research. 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4C0D1,FBEAF0&height=3" width="100%"/>
 
-# Split ways 
-I currently have two research focuses 
+## 🌸 About me
 
-# Data privacy
-<img width="500" height="510" alt="image" src="https://github.com/user-attachments/assets/8f3ca025-c018-4e3c-b12b-a0f8b60e0f22" />
+I'm a girl who loves fashion and art and wants to combine them with a degree in science.
+I do many cool side quests too — modeling, designing, styling, and research.
 
-Currently I'm working with C2C data. Together with my team we found out that moderen C2C marketplaces are vulnurable and not properly anonymized because of the specifics of consumer to consumer data, and access to any AI can only amplify this vulnarability. Because I do love shopping online I want to make sure my data as a seller and a buyer is protected.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4C0D1,FBEAF0&height=3" width="100%"/>
 
-Now my next steps are:
+## 🔐 Data privacy
 
-A. Finish packing my outfits (I have 2 pink suits and I'm very excited)!
+<img align="right" width="220" src="YOUR_IMAGE_URL_HERE"/>
 
-B. Present at CODASPY in couple days.
+Working with C2C data, my team found that modern C2C marketplaces are vulnerable and not properly anonymized — and AI access only amplifies this risk. As someone who loves shopping online, I want to make sure both buyers' and sellers' data is protected.
 
-C. Meet many samrt and amazing people and expand my knwoeldge and practise my German.
+**Next steps:**
 
-D. Start developing a mettigation.
+`A` 🩷 Finish packing my outfits (2 pink suits!!)  
+`B` Present at CODASPY  
+`C` Meet amazing people & practice my German  
+`D` Start developing a mitigation  
+`E` Publish the mitigation  
 
-E. Publish the metigation.
+<br clear="right"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4C0D1,FBEAF0&height=3" width="100%"/>
 
-# Game development 
-<img width="405" height="720" alt="image" src="https://github.com/user-attachments/assets/c9430a10-d2d5-4d82-9f67-e554a4bf3476" />
+## 🎮 Game development
 
-My first degree is in computer sciene with a foucs on game development, and yes I do make more money and am less stressed  an influencer (model)
+<img align="right" width="180" src="YOUR_IMAGE_URL_HERE"/>
 
-*I'm still not giving up though.*
-  This summer I'm spending analyzing the data I have collected from useres last semester nad it's going *tought*
- By the end of the summer I should be done with the data analysis and hopefully be done with most of my thesis. 
- 
-<span style="color: pink;"> I have been refered to as a legaly blonde by it stem before </span>
- 
+My first degree is in computer science with a focus on game development. Yes, I do make more money and am less stressed as an influencer — *I'm still not giving up though.*
+
+This summer I'm spending time analyzing data collected from users last semester and it's going *tough* 💪. By the end of summer I should finish the data analysis and hopefully most of my thesis.
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4C0D1,FBEAF0&height=3" width="100%"/>
+
+> 🌸 *Fun fact: I have been referred to as a Legally Blonde by IT STEM before.*
 <img width="736" height="732" alt="image" src="https://github.com/user-attachments/assets/2e681ade-149b-449d-9abb-7c796bb77a12" />
